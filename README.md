@@ -11,7 +11,7 @@ Feel free to connect with me on LinkedIn to discuss opportunities in sustainable
 
 ## Projects (Click the project title to see more!)
 
-### [Analyzing Safety Reports using ML/NLP | Research Thesis | Indian Institute of Technology Madras]()
+### [Analyzing Safety Reports using ML/NLP | Research Thesis | Indian Institute of Technology Madras](/Project/BTP-Review_compressed.pdf)
 Advisors: Prof. Nikhil Bugalia and Prof. Ashwin Mahalingam
 This research focused on developing automated classification systems for construction safety reports using machine learning approaches. Working with a dataset of 12,000 safety observations from a Kuwait construction site, we developed and evaluated novel text mining methods to classify worker-reported safety incidents.
 
