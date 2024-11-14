@@ -30,3 +30,7 @@ This research focused on developing automated classification systems for constru
 2. Conference Paper: [Kedia, Jai, T. Vurukuti, Nikhil Bugalia, and Ashwin Mahalingam. "Classification of safety observation reports from a construction site: An evaluation of text mining approaches." In PMI Research & Academic Virtual Conference, pp. 50-66. 2021.](/Project/PMI-RAC-2021-Proceeding-Final-Version.pdf)
 
 This research demonstrates the potential of machine learning in automating safety report classification, offering significant efficiency gains in construction safety management. The developed models can help safety managers quickly identify and respond to safety concerns, ultimately contributing to improved workplace safety.
+
+------
+------
+
