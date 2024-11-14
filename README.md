@@ -15,7 +15,7 @@ Feel free to connect with me on LinkedIn to discuss opportunities in sustainable
 Advisors: Dr. Nikhil Bugalia and Dr. Ashwin Mahalingam
 This research focused on developing automated classification systems for construction safety reports using machine learning approaches. Working with a dataset of 12,000 safety observations from a Kuwait construction site, we developed and evaluated novel text mining methods to classify worker-reported safety incidents.
 
-![BTP](/images/Collage_BTP.png)
+![Bachelor Thesis](/images/Collage_BTP.png)
 
 #### Key Contributions:
 1. Developed a systematic analysis framework for processing and classifying construction safety reports
