@@ -12,7 +12,7 @@ Feel free to connect with me on LinkedIn to discuss opportunities in sustainable
 ## Projects (Click the project title to see more!)
 
 ### [Analyzing Safety Reports using ML/NLP | Research Thesis | Indian Institute of Technology Madras](/Project/BTP-Review_compressed.pdf)
-Advisors: Prof. Nikhil Bugalia and Prof. Ashwin Mahalingam
+Advisors: Dr. Nikhil Bugalia and Dr. Ashwin Mahalingam
 This research focused on developing automated classification systems for construction safety reports using machine learning approaches. Working with a dataset of 12,000 safety observations from a Kuwait construction site, we developed and evaluated novel text mining methods to classify worker-reported safety incidents.
 
 #### Key Contributions:
@@ -24,7 +24,7 @@ This research focused on developing automated classification systems for constru
 6. Validated the practical applicability of ML-based classification through industry stakeholder collaboration
 
 #### Publications:
-1. Journal Paper: ["Machine learning-based automated classification of worker-reported safety reports in construction." Journal of Information Technology in Construction](/Project/2022_45-ITcon-Bugalia.pdf)
-2. Conference Paper: "Classification of safety observation reports from a construction site: An evaluation of text mining approaches." PMI Research & Academic Virtual Conference (pp. 50-66)
+1. Journal Paper: [Bugalia, Nikhil, Vurukuti Tarani, Jai Kedia, and Hrishikesh Gadekar. "Machine learning-based automated classification of worker-reported safety reports in construction." Journal of Information Technology in Construction 27 (2022).](/Project/2022_45-ITcon-Bugalia.pdf)
+2. Conference Paper: Kedia, Jai, T. Vurukuti, Nikhil Bugalia, and Ashwin Mahalingam. "Classification of safety observation reports from a construction site: An evaluation of text mining approaches." In PMI Research & Academic Virtual Conference, pp. 50-66. 2021.
 
-##### This research demonstrates the potential of machine learning in automating safety report classification, offering significant efficiency gains in construction safety management. The developed models can help safety managers quickly identify and respond to safety concerns, ultimately contributing to improved workplace safety.
+This research demonstrates the potential of machine learning in automating safety report classification, offering significant efficiency gains in construction safety management. The developed models can help safety managers quickly identify and respond to safety concerns, ultimately contributing to improved workplace safety.
