@@ -25,6 +25,6 @@ This research focused on developing automated classification systems for constru
 
 #### Publications:
 1. Journal Paper: ["Machine learning-based automated classification of worker-reported safety reports in construction." Journal of Information Technology in Construction](/Project/2022_45-ITcon-Bugalia.pdf)
-2. Conference Paper: "Classification of safety observation reports from a construction site: An evaluation of text mining approaches." PMI Research & Academic Virtual Conference
+2. Conference Paper: "Classification of safety observation reports from a construction site: An evaluation of text mining approaches." PMI Research & Academic Virtual Conference (pp. 50-66)
 
 ##### This research demonstrates the potential of machine learning in automating safety report classification, offering significant efficiency gains in construction safety management. The developed models can help safety managers quickly identify and respond to safety concerns, ultimately contributing to improved workplace safety.
